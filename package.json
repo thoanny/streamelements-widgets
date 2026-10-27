@@ -1,0 +1,28 @@
+{
+  "name": "streamelements-widgets",
+  "version": "1.0.0",
+  "description": "A list of StreamElements custom Widgets",
+  "keywords": [
+    "streamelements",
+    "twitch",
+    "widgets",
+    "overlays"
+  ],
+  "homepage": "https://github.com/thoanny/streamelements-widgets#readme",
+  "bugs": {
+    "url": "https://github.com/thoanny/streamelements-widgets/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/thoanny/streamelements-widgets.git"
+  },
+  "author": "Thoanny",
+  "devDependencies": {
+    "vitepress": "^2.0.0-alpha.21"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  }
+}
